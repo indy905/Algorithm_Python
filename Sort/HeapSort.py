@@ -3,7 +3,7 @@
 # get max, min value : O(1)
 # heapsort is an in-place algorithm
 
-# max heap tree : root가 가장 큰 값이고 parent가 childs보다 큰 값일 때
+# max heap tree : root가 가장 큰 값이고 parent가 child보다 큰 값일 때
 
 # heapify : 일반적인 tree를 heap tree로 변경
 def heapify(list, size):
